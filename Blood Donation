@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>BLOOD DONATION</title>
+</head>
+<fieldset>
+<body bgcolor="powderblue" text="Bold">
+<h1 style="text-align:left;">BloodBank.com<br>A Social Intiative</h1>
+
+<form style="text-align:right;">
+
+DONOR LOGIN:<input type="text" name="full name" placeholders="eg.Priyansh Gupta">     Password:<input type="password">     <input type="button" value="LOGIN"></form>
+<br><br>
+<fieldset>
+<legend>NAVIGATION</legend>
+
+<table border="1" cellpadding="10" cellspacing="10" width="100%">
+<form style="text-align:center;">
+<th><a href="Register.html"> Register </a></th>
+<th><a href="Why Donates the blood.html"> Why Donates the blood </a></th>
+<th><a href="Who can give blood.html"> Who can give blood </a></th>
+<th><a href="Refer a friend.html"> Refer a friend</a></th>
+<th><a href="Contact us.html"> Contact Us </a></th>
+</table>
+</form>
+</fieldset>
+<fieldset>
+<legend>DONOR INFORMATION</legend>
+<h1 style="align:left;">Find a donor</h1><br>
+<form>
+State:<select>
+<option value="Andhra Pradesh">Andhra Pradesh</option>
+<option value="Arunachal Pradesh">Arunachal  Pradesh</option>
+<option value="Assam">Assam</option>
+<option value="Bihar">Bihar</option>
+<option value="Chattisgarh">Chattisgarh</option>
+<option value="Goa">Goa</option>
+<option value="Delhi">Delhi</option>
+<option value="Rajasthan">Rajasthan</option>
+<option value="Uttar Pradesh">Uttar Pradesh</option>
+<option value="Himachal Pradesh">Himachal Pradesh</option>
+<option value="Madhya Pradesh">Madhya Pradesh</option>
+<option value="Haryana">Haryana</option>
+<option value="Punjab">Punjab</option>
+<option value="Maharastra">Maharastra</option>
+<option value="Karnataka">Karnataka</option>
+<option value="West Bengal">West Bengal</option>
+<option value="Kerala">Kerala</option>
+<option value="Jammu and Kashmir">Jammu and Kashmir</option>
+<option value="Telangana">Telangana</option>
+<option value="Chennai">Chennai</option>
+<option value="Tamil Nadu">Tamil Nadu</option>
+<option value="Jharkhand">Jharkhand</option>
+<option value="Nagaland">Nagaland</option>
+<option value="Manipur">Manipur"</option>
+<option value="Meghalaya">Meghalaya</option>
+<option value="Mizoram">Mizoram</option>
+<option value="Orissa">Orissa</option>
+<option value="Shikkam">Shikkam</option>
+<option value="Tripura">Tripura</option>
+</select><br><br>
+City:<input type="text" name="name"><br><br>
+Area:<input type="text" name="name"><br><br>
+Blood Group:
+<select>
+<option value="A+">A+</option>
+<option value="A-">A-</option>
+<option value="B+">B+</option>
+<option value="B-">B-</option>
+<option value="AB+">AB+</option>
+<option value="AB-">AB-</option>
+<option value="O+">O+</option>
+<option value="O-">O-</option>
+</select><br><br>
+Male<input type="radio" name="gender">
+Female<input type="radio" name="gender"><br><br>
+<input type="button" value="Search">
+<img src="Blood Donation.png" align="right"alt="Blood Donation" width="400" height="320">
+</form>
+</fieldset>
+<fieldset>
+<legend>DONATION PROCESS</legend>
+<p>Donating blood is a safe, simple, and rewarding experience that usually only takes 45-60 minutes.</p>
+<p>Once the pre-donation screening is finished, you will proceed to a donor bed where your arm will be cleaned with an antiseptic, and a professional will use a blood donation kit to draw blood from a vein in your arm. During the donation process, you will donate one unit of blood;this takes about six to eight minutes.</p> 
+</fieldset>
+<fieldset>
+<h1 style="align:left;">Where would you like to Donate?</h1><br>
+<input type="text" name="name"><br><br>
+<input type="button" value="Search">
+</fieldset>
+<fieldset>
+<legend>FEEDBACK</legend>
+<form>
+<select>
+<option value="Give Feedback +"><input type="text" name="name"></option>
+</select><br><br>
+<input type="button" value="Submit">
+</fieldset>
+</body>
+</fieldset>
+</html>
